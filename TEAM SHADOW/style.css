@@ -1,0 +1,33 @@
+p{
+    color:blue;
+}
+body{
+    background-color: rgb(3, 99, 159);
+}
+select{
+    color:rgb(8, 8, 8);
+}
+.text{
+    display:flex;
+    bottom:500px;
+   
+}
+.chutiya
+{
+    position: absolute;
+    left: 1200px;
+}
+.abc{
+    position: relative;
+    left:750px;
+    bottom:250px;
+    display: flex;
+
+}
+.apple{
+    color: whitesmoke;
+}
+.pqr{
+    position:relative;
+    bottom:230px;
+}
